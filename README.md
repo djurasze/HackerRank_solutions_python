@@ -14,5 +14,6 @@ Solutions are coded using Python 3.7
 
 |  Subdomain  |                                                Challenge                                               | Points |                                                                         Solution                                                                           |
 |:-----------:|:------------------------------------------------------------------------------------------------------:|:------:|:----------------------------------------------------------------------------------------------------------------------------------------------------------:|
-| Implementation | [Big Sorting](https://www.hackerrank.com/challenges/big-sorting/problem)                                             |   20   | [Solution.py](https://github.com/djurasze/HackerRank_solutions_python/blob/master/algorithms/sorting/big_sorting/Solution.py)                        |
+| Sorting | [Big Sorting](https://www.hackerrank.com/challenges/big-sorting/problem)                                             |   20   | [Solution.py](https://github.com/djurasze/HackerRank_solutions_python/blob/master/algorithms/sorting/big_sorting/Solution.py)                        |
+| Sorting | [Correctness and the Loop Invariant](https://www.hackerrank.com/challenges/correctness-invariant/problem)                                             |   30   | [Solution.py](https://github.com/djurasze/HackerRank_solutions_python/blob/master/algorithms/sorting/correctness_and_the_loop_invariant/Solution.py)                        |
 
