@@ -6,6 +6,7 @@
 </p>
 
 * [Algorithms](#Algorithms)
+* [Interview Preparation Kit](#Interview Preparation Kit)
 
 Solutions are coded using Python 3.7
 
@@ -19,4 +20,10 @@ Solutions are coded using Python 3.7
 | Sorting | [Running Time of Algorithms](https://www.hackerrank.com/challenges/runningtime/problem)                                             |   30   | [Solution.py](https://github.com/djurasze/HackerRank_solutions_python/blob/master/algorithms/sorting/running_time_of_algorithms/Solution.py)                        |
 | Strings | [Funny String](https://www.hackerrank.com/challenges/funny-string/problem)                                             |   25   | [Solution.py](https://github.com/djurasze/HackerRank_solutions_python/blob/master/algorithms/strings/funny_string/Solution.py)                        |
 | Implementation | [Almost Sorted](https://www.hackerrank.com/challenges/almost-sorted/problem)                                             |   50   | [Solution.py](https://github.com/djurasze/HackerRank_solutions_python/blob/master/algorithms/implementation/almost_sorted/Solution.py)                        |
+
+# Interview Preparation Kit
+
+|  Subdomain  |                                                Challenge                                               | Points |                                                                         Solution                                                                           |
+|:-----------:|:------------------------------------------------------------------------------------------------------:|:------:|:----------------------------------------------------------------------------------------------------------------------------------------------------------:|
+| Graphs | [Roads and Libraries](https://www.hackerrank.com/challenges/torque-and-development/problem?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=graphs)                                             |   30   | [Solution.py](https://github.com/djurasze/HackerRank_solutions_python/blob/master/interviews_preparation_kit/graphs/roads_and_libraries/Solution.py)                        |
 
