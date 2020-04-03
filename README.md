@@ -7,6 +7,7 @@
 
 * [Algorithms](#Algorithms)
 * [Interview Preparation Kit](#Interview Preparation Kit)
+* [Artificial Intelligence ](#Artificial Intelligence )
 
 Solutions are coded using Python 3.7
 
@@ -29,3 +30,8 @@ Solutions are coded using Python 3.7
 | Trees | [Tree: Height of a Binary Tree](https://www.hackerrank.com/challenges/tree-height-of-a-binary-tree/problem?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=trees)                                             |   10   | [Solution.py](https://github.com/djurasze/HackerRank_solutions_python/blob/master/interviews_preparation_kit/trees/height_of_a_binary_tree/Solution.py)                        |
 | Linked Lists | [Linked Lists: Detect a Cycle](https://www.hackerrank.com/challenges/ctci-linked-list-cycle/problem?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=linked-lists)                                             |   25   | [Solution.py](https://github.com/djurasze/HackerRank_solutions_python/blob/master/interviews_preparation_kit/linked_lists/linked_ists_detect_a_cycle/Solution.py)                        |
 
+# Artificial Intelligence 
+
+|  Subdomain  |                                                Challenge                                               | Points |                                                                         Solution                                                                           |
+|:-----------:|:------------------------------------------------------------------------------------------------------:|:------:|:----------------------------------------------------------------------------------------------------------------------------------------------------------:|
+| Bot Building | [Bot saves princess](https://www.hackerrank.com/challenges/saveprincess?hr_b=1)                                             |   13   | [Solution.py](https://github.com/djurasze/HackerRank_solutions_python/blob/master/artificial_intelligence/bot_building/bot_saves_princess/Solution.py)                        |
