@@ -22,6 +22,7 @@ Solutions are coded using Python 3.7
 | Strings | [Funny String](https://www.hackerrank.com/challenges/funny-string/problem)                                             |   25   | [Solution.py](https://github.com/djurasze/HackerRank_solutions_python/blob/master/algorithms/strings/funny_string/Solution.py)                        |
 | Implementation | [Almost Sorted](https://www.hackerrank.com/challenges/almost-sorted/problem)                                             |   50   | [Solution.py](https://github.com/djurasze/HackerRank_solutions_python/blob/master/algorithms/implementation/almost_sorted/Solution.py)                        |
 | Strings | [Super Reduced String](https://www.hackerrank.com/challenges/reduced-string/problem)                                             |   10   | [Solution.py](https://github.com/djurasze/HackerRank_solutions_python/blob/master/algorithms/strings/super_reduced_string/Solution.py)                        |
+| Strings | [Strong Password](https://www.hackerrank.com/challenges/strong-password/problem)                                             |   15   | [Solution.py](https://github.com/djurasze/HackerRank_solutions_python/blob/master/algorithms/strings/strong_password/Solution.py)                        |
 
 # Interview Preparation Kit
 
