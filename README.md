@@ -7,6 +7,7 @@
 
 * [Algorithms](#Algorithms)
 * [Interview Preparation Kit](#Interview Preparation Kit)
+* [Data Structures](#Data Structures)
 * [Artificial Intelligence ](#Artificial Intelligence )
 
 Solutions are coded using Python 3.7
@@ -34,6 +35,12 @@ Solutions are coded using Python 3.7
 | Linked Lists | [Linked Lists: Detect a Cycle](https://www.hackerrank.com/challenges/ctci-linked-list-cycle/problem?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=linked-lists)                                             |   25   | [Solution.py](https://github.com/djurasze/HackerRank_solutions_python/blob/master/interviews_preparation_kit/linked_lists/linked_ists_detect_a_cycle/Solution.py)                        |
 | Miscellaneous | [Flipping bits](https://www.hackerrank.com/challenges/flipping-bits/problem?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=miscellaneous)                                             |   40   | [Solution.py](https://github.com/djurasze/HackerRank_solutions_python/blob/master/interviews_preparation_kit/miscellaneous/flipping_bits/Solution.py)                        |
 | Recursion and Backtracking | [Crossword Puzzle](https://www.hackerrank.com/challenges/crossword-puzzle/problem?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=recursion-backtracking)                                             |   30   | [Solution.py](https://github.com/djurasze/HackerRank_solutions_python/blob/master/interviews_preparation_kit/recursion_and_backtracking/crossword_puzzle/Solution.py)                        |
+
+# Data Structures
+
+|  Subdomain  |                                                Challenge                                               | Points |                                                                         Solution                                                                           |
+|:-----------:|:------------------------------------------------------------------------------------------------------:|:------:|:----------------------------------------------------------------------------------------------------------------------------------------------------------:|
+| Arrays | [Dynamic Array](https://www.hackerrank.com/challenges/dynamic-array/problem)                                             |   15   | [Solution.py](https://github.com/djurasze/HackerRank_solutions_python/blob/master/data_structures/arrays/dynamic_array/Solution.py)                        |
 
 # Artificial Intelligence 
 
