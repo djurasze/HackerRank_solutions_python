@@ -47,3 +47,9 @@ Solutions are coded using Python 3.7
 |  Subdomain  |                                                Challenge                                               | Points |                                                                         Solution                                                                           |
 |:-----------:|:------------------------------------------------------------------------------------------------------:|:------:|:----------------------------------------------------------------------------------------------------------------------------------------------------------:|
 | Bot Building | [Bot saves princess](https://www.hackerrank.com/challenges/saveprincess?hr_b=1)                                             |   13   | [Solution.py](https://github.com/djurasze/HackerRank_solutions_python/blob/master/artificial_intelligence/bot_building/bot_saves_princess/Solution.py)                        |
+
+# Python 
+
+|  Subdomain  |                                                Challenge                                               | Points |                                                                         Solution                                                                           |
+|:-----------:|:------------------------------------------------------------------------------------------------------:|:------:|:----------------------------------------------------------------------------------------------------------------------------------------------------------:|
+| Math | [Triangle Quest 2](https://www.hackerrank.com/challenges/triangle-quest-2/problem)                                             |   20   | [Solution.py](https://github.com/djurasze/HackerRank_solutions_python/blob/master/python/math/triangle_quest_2/Solution.py)                        |
