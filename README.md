@@ -41,6 +41,7 @@ Solutions are coded using Python 3.7
 |  Subdomain  |                                                Challenge                                               | Points |                                                                         Solution                                                                           |
 |:-----------:|:------------------------------------------------------------------------------------------------------:|:------:|:----------------------------------------------------------------------------------------------------------------------------------------------------------:|
 | Arrays | [Dynamic Array](https://www.hackerrank.com/challenges/dynamic-array/problem)                                             |   15   | [Solution.py](https://github.com/djurasze/HackerRank_solutions_python/blob/master/data_structures/arrays/dynamic_array/Solution.py)                        |
+| Trees | [Binary Search Tree : Lowest Common Ancestor](https://www.hackerrank.com/challenges/binary-search-tree-lowest-common-ancestor/problem)                                             |   30   | [Solution.py](https://github.com/djurasze/HackerRank_solutions_python/blob/master/data_structures/tress/binary_search_tree_lowest_common_ancestor/Solution.py)                        |
 
 # Artificial Intelligence 
 
